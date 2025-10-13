@@ -1,0 +1,5 @@
+original_data/
+sample_data/
+*.xlsx
+*.bz2
+*.jsonlist
