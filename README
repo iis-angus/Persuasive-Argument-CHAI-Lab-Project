@@ -1,4 +1,6 @@
-This is an experiment to test Chat-GPT's ability to predict 
+This is an study to test GPT-3.5-Turbo's ability to predict which of two users' responses is more persuasive. This is based off Tan et al. (2016)'s study found [here](https://chenhaot.com/papers/changemyview.html)
+
+This study uses the following datasets to analyze language features:
 
 [The NRC Valence, Arousal, and Dominance (NRC-VAD) Lexicon](https://saifmohammad.com/WebPages/nrc-vad.html)
 
